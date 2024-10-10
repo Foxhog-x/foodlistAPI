@@ -6,7 +6,7 @@
       "description": "Classic cheese and tomato pizza with fresh basil",
       "price": 8.99,
       "category": "Pizza",
-      "image": "https://example.com/images/margherita_pizza.jpg",
+      "image": "https://img.freepik.com/free-photo/pizza-margarita-table_140725-5394.jpg",
       "availability": true,
       "rating": 4.5,
       "ingredients": ["Tomato Sauce", "Mozzarella", "Basil"],
