@@ -146,19 +146,19 @@
       "ingredients": ["Arborio Rice", "Mushrooms", "Parmesan", "Garlic", "White Wine"],
       "vegetarian": true
     },
-    {
-      "id": 13,
-      "name": "Avocado Toast",
-      "description": "Smashed avocado on toasted sourdough bread, topped with chili flakes",
-      "price": 6.49,
-      "category": "Breakfast",
-      "image": "https://cookieandkate.com/images/2012/04/avocado-toast-variations.jpg",
-      "availability": true,
-      "rating": 4.7,
-      "ingredients": ["Avocado", "Sourdough Bread", "Chili Flakes", "Lemon Juice"],
-      "vegetarian": true,
-      "vegan": true
-    },
+{
+  "id": 14,
+  "name": "Paneer Tikka",
+  "description": "Marinated cottage cheese chunks grilled to perfection, served with mint chutney.",
+  "price": 8.99,
+  "category": "Appetizer",
+  "image": "https://ministryofcurry.com/wp-content/uploads/2021/01/Paneer-Tikka_-2-1.jpg",
+  "availability": true,
+  "rating": 4.8,
+  "ingredients": ["Paneer", "Yogurt", "Spices", "Bell Peppers", "Onions"],
+  "vegetarian": true,
+  "vegan": false
+},
     {
       "id": 14,
       "name": "Tuna Poke Bowl",
@@ -174,6 +174,18 @@
     {
       "id": 15,
       "name": "Chocolate Lava Cake",
+      "description": "Warm chocolate cake with a gooey molten center, served with vanilla ice cream",
+      "price": 6.99,
+      "category": "Dessert",
+      "image": "https://www.billyparisi.com/wp-content/uploads/2022/02/lava-cake-1.jpg",
+      "availability": true,
+      "rating": 4.9,
+      "ingredients": ["Chocolate", "Butter", "Sugar", "Vanilla Ice Cream"],
+      "vegetarian": true
+    },
+        {
+      "id": 16,
+      "name": "new Lava Cake",
       "description": "Warm chocolate cake with a gooey molten center, served with vanilla ice cream",
       "price": 6.99,
       "category": "Dessert",
